@@ -1,2 +1,4 @@
-# Jeu cinema Mysteres UNIL
- Jeu adapté pour les Mystères de l'Unil 2023
+# cineHist
+Projet pour le cours Jeu vidéo 2D donnée par Isaac Pante au Printemps 2023.
+
+Le jeu est acessible [ici](https://theor98.github.io/)
